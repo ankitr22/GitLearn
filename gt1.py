@@ -1,5 +1,5 @@
 print("hello world")
 
-print("git-4")
-print("done-v4")
-print("learning git")
+print("git-6")
+print("done-v6")
+print("learning github")
